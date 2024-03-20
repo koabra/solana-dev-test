@@ -9,5 +9,5 @@ edition = "2021"
 solana-program = "1.18.7"
 
 [lib]
-name = "hello-world-test"
+name = "hello_world_test"
 crate-type = ["cdylib", "lib"]
